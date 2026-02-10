@@ -1,0 +1,19 @@
+{
+  "name": "piotrpress/hide-version",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0-or-later",
+  "description": "This plugin hides the WordPress version number by removing the generator meta tag and replacing ver query parameter from enqueued scripts and styles with the file modification time.",
+  "homepage": "https://github.com/PiotrPress/wordpress-hide-version",
+  "authors": [
+    {
+      "name": "Piotr Niewiadomski",
+      "homepage": "https://piotr.press"
+    }
+  ],
+  "keywords": [
+    "wordpress", "wp", "plugin", "security", "hide version", "obscure vulnerabilities", "wordpress version", "wp version", "security enhancement", "version hiding", "wordpress security", "wp security"
+  ],
+  "require": {
+    "php": ">=7.4"
+  }
+}
