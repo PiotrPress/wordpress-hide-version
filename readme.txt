@@ -2,7 +2,7 @@
 Contributors: PiotrPress
 Tags: wordpress, wp, plugin, security, hide-version, obscure-vulnerabilities, wordpress-version, wp-version, security-enhancement, version-hiding, wordpress-security, wp-security
 Requires at least: 6.9
-Tested up to: 6.9
+Tested up to: 7.1
 Stable tag: trunk
 Requires PHP: 7.4
 License: GPL v3 or later
